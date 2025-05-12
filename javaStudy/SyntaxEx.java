@@ -29,8 +29,11 @@ package javaStudy;
  * 9. 하나의 자바 소스 파일내에는 하나 이상의 클래스를 정의 할수 있습니다. 단, Public 키워드는 단 하나의 클래스만 가질수 있고,
  * 한번 이상 사용하면 에러입니다. 또한 이 public 을 가진 클래스가 대표 클래스가 되고, main 메서드를 갖게 되며, 파일명을 이 클래스명으로 합니다.
  *  */
+ class Dosome{
+	 
+ }
 
 public class SyntaxEx {
-
+	
 	
 }
